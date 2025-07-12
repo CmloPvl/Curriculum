@@ -12,7 +12,6 @@ Este es mi fork del repositorio original de Rodrigo Vásquez Alarcón.
 - Mi fork: https://github.com/CmloPvl/rodrigovasquezalarcon.github.io
 - Rama de mejoras: https://github.com/CmloPvl/rodrigovasquezalarcon.github.io/tree/mejora-camilo
 
-Aquí irán los commits y cambios que he realizado para la evaluación.
 
 ---
 
