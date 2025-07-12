@@ -7,7 +7,7 @@ A continuación, presento los forks de los proyectos de mis compañeros, junto c
 Este es mi fork del repositorio original de Rodrigo Vásquez Alarcón.
 
 - Repositorio original: https://github.com/rodrigovasquezalarcon/rodrigovasquezalarcon.github.io
-- Mi fork: https://github.com/CmloPvl/rodrigovasquezalarcon.github.io
+- Mi fork: https://github.com/CmloPvl/rodrigovasquezalarcon.github.io/tree/mejora-camilo
 
 Aquí irán los commits y cambios que he realizado para la evaluación.
 
